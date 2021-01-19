@@ -5,3 +5,9 @@
 All links already has class "menu-item"
 
 
+Js code for selector
+document.querySelector(".pdate"); 
+document.querySelector(".bdate"); 
+document.querySelector(".obj"); 
+document.querySelector(".menu-item"); 
+
